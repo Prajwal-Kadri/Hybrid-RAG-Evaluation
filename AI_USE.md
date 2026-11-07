@@ -1,14 +1,5 @@
 # AI Use Declaration
 
-List every AI tool you used while completing this assignment, what you used
-it for, and which files it touched. Undeclared AI use found by TAs is an
-Academic Integrity Violation -- when in doubt, over-declare.
-
-You may use LLMs to proofread code or help write your README. You may NOT
-use LLMs to design or implement the reranking or generation components
-(`context_rerank.py`, `prompts.py`, `generate.py`, `answer_rerank.py`,
-`llm_client.py`) without first making a genuine effort to implement them
-yourself.
 
 ## Tools used
 
@@ -22,7 +13,3 @@ yourself.
 | ChatGPT (GPT-5) | Recovery helper|  Prajwal_Kadri_HW3/scripts/recover_bi_numsources.py |
 |  |  |  |
 
-## Notes
-
-(Anything else worth flagging about how AI tools were used, or confirming
-none were used beyond what's listed above.)
