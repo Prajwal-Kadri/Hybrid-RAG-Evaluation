@@ -1,0 +1,3 @@
+{"id": "mini_paris", "type": "factoid", "title": ["France"], "question": "what is the capital of france", "context": ["paris is the capital"], "answers": {"answer_start": ["0"], "text": ["Paris"], "context_index": ["0"]}}
+{"id": "mini_both", "type": "multi_hop", "title": ["France", "Census City"], "question": "what is the population of the capital of france", "context": ["paris is the capital", "two million residents"], "answers": {"answer_start": ["0", "0"], "text": ["two million"], "context_index": ["0", "1"]}}
+{"id": "mini_near", "type": "unanswerable", "title": ["Lyon"], "question": "what is the capital of lyon", "context": ["lyon has a river"], "answers": {"answer_start": [-1], "text": [""], "context_index": [1]}}

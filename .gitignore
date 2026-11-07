@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+data/wiki_corpus.jsonl
+runs/candidates/pool_*.jsonl
+runs/reproduced/
+runs/recovery/
+export_backups/
+submission_backups/

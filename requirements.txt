@@ -1,0 +1,14 @@
+numpy
+scikit-learn
+faiss-cpu
+torch
+transformers
+sentence-transformers
+datasets
+rank_bm25
+matplotlib
+pytest
+# Add whichever LLM client you use for generation / likelihood scoring, e.g.:
+openai
+accelerate
+# anthropic
