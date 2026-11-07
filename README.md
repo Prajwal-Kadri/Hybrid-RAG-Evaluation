@@ -1,4 +1,4 @@
-# HW3: Retrieval-Augmented Generation
+# Hybrid RAG
 
 Prajwal Kadri (`pkadri`)
 
